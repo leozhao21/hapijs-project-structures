@@ -1,0 +1,4 @@
+#此行为注释，不会起作用
+node_modules/
+.idea/
+log/
